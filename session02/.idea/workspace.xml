@@ -1,12 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="33d1439c-5b05-4124-9f7a-aeafad07902f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../session01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session01/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session01/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session01/.idea/material_theme_project_new.xml" afterDir="false" />
+    <list default="true" id="e414aaf7-492d-46c1-9b18-3864669c009d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../session01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/session01.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/src/main/java/org/example/session01/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/src/main/java/org/example/session01/model/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/src/main/java/org/example/session01/model/SystemConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session01/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/session02.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/config/WebInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/controller/EventController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/controller/ReportController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/model/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/java/org/example/session02/model/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/webapp/WEB-INF/views/events/search.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/webapp/WEB-INF/views/orders.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/webapp/WEB-INF/views/report.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-4baidau/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/java/org/example/session02baicuoi/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/java/org/example/session02baicuoi/config/WebInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/java/org/example/session02baicuoi/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/java/org/example/session02baicuoi/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/java/org/example/session02baicuoi/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/webapp/WEB-INF/views/detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/webapp/WEB-INF/views/employees.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/webapp/WEB-INF/views/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/session02-baicuoi/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session03-thuchanhdaugio/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session03-thuchanhdaugio/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +82,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
+  "associatedIndex": 0,
+  "fromUser": false
 }]]></component>
-  <component name="ProjectId" id="3BzOGxPZ3Wu1lNMfByzgqV78snS" />
+  <component name="ProjectId" id="3C1a5MKS3cROQQkAa1HvlvTpjW4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,24 +94,27 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/it210/session02",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="33d1439c-5b05-4124-9f7a-aeafad07902f" name="Changes" comment="" />
-      <created>1775488345004</created>
+      <changelist id="e414aaf7-492d-46c1-9b18-3864669c009d" name="Changes" comment="" />
+      <created>1775555346420</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1775488345004</updated>
-      <workItem from="1775488368651" duration="56000" />
+      <updated>1775555346420</updated>
+      <workItem from="1775555347465" duration="192000" />
     </task>
     <servers />
   </component>

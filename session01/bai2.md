@@ -1,0 +1,1 @@
+Vì là singleton nghĩa là chỉ có một đối tượng được tạo ra nên mỗi lần gọi đều trả về một đội tương dẫn đến bị cộng nhầm 

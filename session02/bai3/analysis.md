@@ -1,0 +1,3 @@
+1. Lưu vào trong request để chỉ hiện thị lỗi ở request đấy còn nếu lưu vào trong session thì nó sẽ hiển thị lỗi cho đến khi kết thúc phiên làm việc.
+2. Application Scope là biến duy nhất cho toàn bộ app khi lưu vào đó các phiên khác có thể lấy ra và sử dụng, khi lưu vào session mỗi khi có người dùng đăng nhập sẽ tạo ra một biến mới dẫn đến hiển thị không chính xác.
+3. Khi làm việc trong môi trường đa luồng nhiều người dùng sẽ cùng tương tác làm thay đổi biến đấy dẫn đến race condition nên bọc trong một method có `synchronized` để tránh bị race condition.

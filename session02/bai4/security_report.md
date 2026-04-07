@@ -1,0 +1,3 @@
+1.	Lỗi XSS (Cross-Site Scripting): lỗ hổng bảo mật khi người khác chèn mã JavaScript vào trang web của bạn, mã đó sẽ được chạy trong trình duyệt của người dùng. ${keyword} trực tiếp in ra HTML mà không escape, mã JavaScript sẽ được chạy. Dùng c:out để tự động escape HTML.
+2.	C:if kiểm tra 1 điều kiện đơn giản, c:choose thay thế if-else khi có nhiều điều kiện.
+3.	C:url tự động thêm context path của ứng dụng vào URL, giúp link luôn chính xác, tránh bị lỗi 404 khi ứng dụng được deploy với context path khác. Dùng c:url thay vì hard code context path.
